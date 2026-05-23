@@ -1,0 +1,10 @@
+#frontend
+*/node_modules
+
+#backend
+
+#general
+.env
+*/.env
+.DS_Store
+*/DS_Store
